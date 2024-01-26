@@ -30,7 +30,7 @@ cout << a << " ";
 cout << b << " ";
 cout << c << " ";
 cout << x << " ";
-cout << &y << " ";
+cout << &y << " "; 
 cout << z << " " << endl;
 
 *y = 'W';
