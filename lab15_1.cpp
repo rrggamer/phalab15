@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 
 int a = 5;
-char b = 'A';
+char b = 'A'; 
 char &c = b;
 int *x = &a;
 char *y = &b; 
